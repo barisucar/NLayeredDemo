@@ -1,0 +1,11 @@
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\bin\Debug\net8.0\NLayeredDemo.Core.deps.json
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\bin\Debug\net8.0\NLayeredDemo.Core.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\bin\Debug\net8.0\NLayeredDemo.Core.pdb
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\NLayeredDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\NLayeredDemo.Core.AssemblyInfoInputs.cache
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\NLayeredDemo.Core.AssemblyInfo.cs
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\NLayeredDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\NLayeredDemo.Core.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\refint\NLayeredDemo.Core.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\NLayeredDemo.Core.pdb
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Core\obj\Debug\net8.0\ref\NLayeredDemo.Core.dll

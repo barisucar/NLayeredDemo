@@ -1,0 +1,6 @@
+@NLayeredDemo.API_HostAddress = http://localhost:5109
+
+GET {{NLayeredDemo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

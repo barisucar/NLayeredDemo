@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NLayeredDemo.Repository/1.0.0": {
+        "dependencies": {
+          "NLayeredDemo.Core": "1.0.0"
+        },
+        "runtime": {
+          "NLayeredDemo.Repository.dll": {}
+        }
+      },
+      "NLayeredDemo.Core/1.0.0": {
+        "runtime": {
+          "NLayeredDemo.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NLayeredDemo.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLayeredDemo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

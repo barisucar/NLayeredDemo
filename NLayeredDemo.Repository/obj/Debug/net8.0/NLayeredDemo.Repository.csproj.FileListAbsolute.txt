@@ -1,0 +1,15 @@
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\bin\Debug\net8.0\NLayeredDemo.Repository.deps.json
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\bin\Debug\net8.0\NLayeredDemo.Repository.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\bin\Debug\net8.0\NLayeredDemo.Repository.pdb
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\bin\Debug\net8.0\NLayeredDemo.Core.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\bin\Debug\net8.0\NLayeredDemo.Core.pdb
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.csproj.AssemblyReference.cache
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.AssemblyInfoInputs.cache
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.AssemblyInfo.cs
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayered.5E01371F.Up2Date
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\refint\NLayeredDemo.Repository.dll
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\NLayeredDemo.Repository.pdb
+C:\Users\baris\RiderProjects\NLayeredDemo\NLayeredDemo.Repository\obj\Debug\net8.0\ref\NLayeredDemo.Repository.dll
